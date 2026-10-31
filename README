@@ -1,0 +1,93 @@
+
+# Expense Tracker
+
+## Project Description
+
+I created a simple Expense Tracker web page using HTML, CSS, and JavaScript. I used ChatGPT as an AI tool to help me build the application.
+
+The purpose of this project is to help users keep track of their daily expenses.
+
+## Features
+
+The Expense Tracker allows users to:
+
+- Add an expense with a name.
+- Enter the amount spent.
+- Select a category such as Food, Travel, or Shopping.
+- View all expenses.
+- See the total amount spent.
+- Delete an expense.
+- See an error message when the name is empty or the amount is zero or negative.
+
+## How I Used AI to Complete the Project
+
+I used ChatGPT to help me understand and build the Expense Tracker.
+
+First, I wrote a prompt explaining what I wanted the application to do.
+
+I used the seven parts of a good prompt:
+
+1. Role - I asked AI to act as a web developer.
+2. Context - I explained that I was a beginner working on a class assignment.
+3. Task - I asked AI to create an Expense Tracker.
+4. Constraints - I asked it to use only HTML, CSS, and JavaScript.
+5. Examples - I gave an example of adding a Food expense for $25.
+6. Output Format - I asked AI to provide the code in separate files.
+7. Success Criteria - I explained that the application must add, display, total, and delete expenses.
+
+## How I Built the Application
+
+I used AI to break the project into smaller steps.
+
+First, I created the HTML file to build the webpage.
+
+Next, I used CSS to make the webpage look clean and organized.
+
+Then, I used JavaScript to make the application work. JavaScript allows users to add expenses, delete expenses, and calculate the total amount spent.
+
+I also asked AI to add error messages when users enter incorrect information.
+
+## How I Improved the Application
+
+After creating the application, I asked ChatGPT to review the code and suggest an improvement.
+
+I asked AI to show a message when there are no expenses in the list.
+
+I also reviewed the code and asked AI to explain parts I did not understand.
+
+## Testing the Application
+
+I tested the application using different examples:
+
+- Added groceries for $25.
+- Added gas for $40.
+- Checked that the total was $65.
+- Deleted an expense.
+- Tried submitting an empty name.
+- Tried entering zero as the amount.
+- Tried entering a negative amount.
+
+The application should accept valid expenses and display error messages for invalid information.
+
+## What I Learned
+
+I learned how to use ChatGPT to help create a simple web application.
+
+I learned how to write clear AI prompts, break a project into smaller steps, and review code created by AI.
+
+I also learned how HTML, CSS, and JavaScript work together.
+
+Finally, I learned how to use Git and GitHub to save and manage my project files.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- ChatGPT AI
+- Git
+- GitHub
+
+## Conclusion
+
+This project helped me understand how AI can make coding easier for beginners. I learned that AI can help write code, explain problems, and suggest improvements, but it is important to review and test the code to make sure everything works correctly.
